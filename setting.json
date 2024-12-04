@@ -1,0 +1,46 @@
+{
+  "editor.fontSize": 18,
+  "editor.fontFamily": "Geist Mono",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.fontSize": 16,
+  "gitlens.hovers.currentLine.over": "line",
+  "explorer.confirmDelete": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "workbench.editor.wrapTabs": true,
+  "editor.minimap.enabled": false,
+  "workbench.editorAssociations": {
+    "*.db": "default"
+  },
+  "editor.inlineSuggest.enabled": true,
+
+  "workbench.startupEditor": "none",
+  "git.confirmSync": false,
+  "editor.codeActionsOnSave": {},
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "workbench.editor.enablePreviewFromCodeNavigation": true,
+  "editor.linkedEditing": true,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "cSpell.userWords": [],
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Pro",
+  "codesnap.shutterAction": "copy",
+  "security.promptForLocalFileProtocolHandling": false,
+  "debug.javascript.autoAttachFilter": "always",
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+
+  "vscode_custom_css.imports": [
+    "file:///Users/{username}/vs_code.css",
+    "file:///Users/{username}/vs_code.js"
+  ],
+  "editor.stickyScroll.scrollWithEditor": false,
+  "workbench.tree.enableStickyScroll": false
+}
